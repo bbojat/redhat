@@ -8,13 +8,13 @@ https://www.opentlc.com/labs/ocp_advanced_deployment/06_1_Assignment_Lab.html#_p
 ### Installation steps
 
 
-* Loggin to the bastion server:
+* Login to the bastion server:
 
   ```
   # ssh -i ~/.ssh/yourprivatekey.key opentlc-username@bastion.your_GUID.example.opentlc.com
   ```
 
-* Become root:
+* Becoming root:
 
   ```
   # sudo -i
