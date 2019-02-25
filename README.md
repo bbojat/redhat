@@ -23,7 +23,7 @@ https://www.opentlc.com/labs/ocp_advanced_deployment/06_1_Assignment_Lab.html#_p
 * Clone homework repo:
 
   ```
-  # git clone https://github.com/rasomonac/ocp-homework.git
+  # git clone https://github.com/borysha/redhat.git
   ```
   
 * Switch to installation directory:
