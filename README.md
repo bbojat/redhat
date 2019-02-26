@@ -41,7 +41,7 @@ https://www.opentlc.com/labs/ocp_advanced_deployment/08_X_Assignment_40_Hour_Lab
 * Run following to start the installation:
 
   ```
-  # sh ./start-homework.sh
+  # ./start-homework.sh
   ```
 
 ### Uninstall instructions
