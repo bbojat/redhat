@@ -33,6 +33,11 @@ https://www.opentlc.com/labs/ocp_advanced_deployment/08_X_Assignment_40_Hour_Lab
   # cd redhat
   ```
 
+* Add permission to start-homework script:
+  ```
+  # chmod 755 start-homework.sh
+  ```
+
 * Run following to start the installation:
 
   ```
