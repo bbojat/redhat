@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Copy, adjust and run an Ansible file
 echo "Copy of custom hosts file to /etc/ansible/hosts."
-cp /root/ocp-homework/hosts /etc/ansible/hosts
+cp /root/redhat/hosts /etc/ansible/hosts
 
 echo "Update GUID to generate inventory."
 GUID=`hostname|awk -F. '{print $2}'`
