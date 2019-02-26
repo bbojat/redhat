@@ -46,5 +46,5 @@ https://www.opentlc.com/labs/ocp_advanced_deployment/08_X_Assignment_40_Hour_Lab
 
 ### Uninstall instructions
   
-  In case that installation fails run **uninstall.sh** from **/ocp-homework/** directory.
+  In case that installation fails add permission and run **uninstall.sh** from **/redhat/** directory.
   Delete directories ocp-homework and pvs.
