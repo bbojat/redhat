@@ -30,7 +30,7 @@ https://www.opentlc.com/labs/ocp_advanced_deployment/08_X_Assignment_40_Hour_Lab
 * Switch to installation directory:
 
   ```
-  # cd ocp-homework
+  # cd redhat
   ```
 
 * Run following to start the installation:
