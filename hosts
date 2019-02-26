@@ -48,8 +48,8 @@ openshift_enable_olm=true
 
 #oreg_url=registry.access.redhat.com/openshift3/ose-${component}:${version}
 oreg_url=registry.redhat.io/openshift3/ose-${component}:${version}
-oreg_auth_user=PROMENI_ME
-oreg_auth_password=PROMENI_ME
+oreg_auth_user=boris.bojat-devoteam.com
+oreg_auth_password=kuuCKA123
 
 
 # For Operator Framework Images
